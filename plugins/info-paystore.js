@@ -68,7 +68,7 @@ const listMessage = {
   text: info,
   footer: botdate,
   title: wm,
-  buttonText: "Click Here!",
+  buttonText: "Tekan Button!",
   sections
 }
 await conn.sendMessage(m.chat, listMessage)
