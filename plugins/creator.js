@@ -61,7 +61,7 @@ const listMessage = {
   text: teks,
   footer: null,
   title: `${htki} *OWNER* ${htka}`,
-  buttonText: "Tekan Button !",
+  buttonText: "Tekan Button!",
   sections
 }
 
