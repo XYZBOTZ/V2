@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/memek_basah'
-global.sgh = 'https://github.com/DanzGantevk75'
+global.sig = '-'
+global.sgh = 'https://github.com/XYZBOTZ'
 global.sgc = 'https://chat.whatsapp.com/EmCBNEjwdOcHzRlGCXKoxK'
 global.sdc = '-'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '088270863279'
+global.pdana = '085862754807'
 global.povo = '-'
-global.pgopay = '088270863279'
-global.ppulsa = '088270863279'
-global.ppulsa2 = '089519269447'
+global.pgopay = '085862754807'
+global.ppulsa = '085862754807'
+global.ppulsa2 = '085862754807'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62882708632799'
-global.nomorown = '6288270863279'
-global.namebot = 'DanzBot-MD'
-global.nameown = 'Danzz Ofc'
+global.nomorbot = '6281546988821'
+global.nomorown = '6285862754807'
+global.namebot = 'XYZ-MD'
+global.nameown = 'Nopan Ofc'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288270863279'],
-  ['6288270863279'],
-  ['6288270863279'],
-  ['6288270863279', 'Danzz Ofc', true]
+  ['6285862754807'],
+  ['6285862754807'],
+  ['6285862754807'],
+  ['6285862754807', 'Nopan Ofc', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,9 +115,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 DanzBot-MD あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Danzz 𝗕𝗢𝗧'
+global.wm = '                「 NopanBot-MD あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Nopan - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Nopan 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
